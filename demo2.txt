@@ -1,0 +1,5 @@
+this is my first github push
+workspace - where you work either its a local machine or a linux machi or any vms
+stagiging area- git add .
+local repo- git commit -m "message"
+push it to remote repository- github
